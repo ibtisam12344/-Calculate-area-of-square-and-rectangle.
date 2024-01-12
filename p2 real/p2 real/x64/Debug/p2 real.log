@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\ibtis\OneDrive\Desktop\cp a7\p2 real\p2 real\FileName.cpp(5,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ibtis\OneDrive\Desktop\cp a7\p2 real\p2 real\FileName.cpp(9,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\ibtis\OneDrive\Desktop\cp a7\p2 real\p2 real\FileName.cpp(13,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  p2 real.vcxproj -> C:\Users\ibtis\OneDrive\Desktop\cp a7\p2 real\x64\Debug\p2 real.exe
